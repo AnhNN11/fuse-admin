@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.2",
+    "@ckeditor/ckeditor5-build-classic": "^44.3.0",
+    "@ckeditor/ckeditor5-react": "^9.5.0",
+    "@livekit/components-react": "^2.8.1",
     "@reduxjs/toolkit": "^2.6.0",
     "@types/moment": "^2.11.29",
     "accept-language": "^3.0.20",
@@ -34,6 +37,7 @@
     "react": "^18",
     "react-avatar": "^5.0.3",
     "react-cookie": "^7.2.2",
+    "react-countup": "^6.5.3",
     "react-dom": "^18",
     "react-i18next": "^15.4.1",
     "react-redux": "^9.2.0",
