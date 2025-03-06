@@ -1,0 +1,20 @@
+{
+  "club": "Câu lạc bộ",
+  "title": "Thành viên câu lạc bộ",
+  "order": "STT",
+  "name": "Họ và tên",
+  "username": "MSSV",
+  "department": "Ban",
+  "status": "Tình trạng",
+  "statusInteview": "Phỏng vấn",
+  "interviewStatus": "Tình trạng phỏng vấn",
+  "updatedAt": "Cập nhật",
+  "action": "Tác vụ",
+  "search": "Tìm kiếm",
+  "statusFilter": {
+    "NEW": "Mới",
+    "MEMBER": "Thành viên",
+    "REJECTED": "Từ chối",
+    "DROP_OUT": "Dừng Hoạt động"
+  }
+}

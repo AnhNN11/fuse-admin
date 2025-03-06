@@ -1,0 +1,27 @@
+{
+  "order": "No.",
+  "name": "Name",
+  "username": "Username",
+  "club": "Club",
+  "department": "Deparment",
+  "status": "Status",
+  "statusInteview": "Status Inteview",
+  "interviewStatus": "Interview Status",
+  "updatedAt": "Updated At",
+  "search": "Search",
+  "title": "My Application",
+  "statusFilter": {
+    "NEW": "New",
+    "MEMBER": "Member",
+    "REJECTED": "Rejected",
+    "DROP_OUT": "Drop Out"
+  },
+  "interviewStatusFilter": {
+    "NEW": "New",
+    "SENT_INTERVIEW": "Send Interview",
+    "INTERVIEWED": "Interviewed",
+    "APPROVED": "Approved",
+    "REJECTED": "Rejected",
+    "CANCELED": "Canceled"
+  }
+}

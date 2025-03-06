@@ -1,0 +1,80 @@
+{
+  "order": "No.",
+  "name": "Name",
+  "username": "Username",
+  "department": "Deparment",
+  "status": "Status",
+  "statusInteview": "Status Inteview",
+  "interviewStatus": "Interview Status",
+  "updatedAt": "Updated At",
+  "action": "Actions",
+  "search": "Search",
+  "title": "Recruitment Management",
+  "statusFilter": {
+    "NEW": "New",
+    "MEMBER": "Member",
+    "REJECTED": "Rejected",
+    "DROP_OUT": "Drop Out"
+  },
+  "interviewStatusFilter": {
+    "NEW": "New",
+    "SENT_INTERVIEW": "Send Interview",
+    "INTERVIEWED": "Interviewed",
+    "APPROVED": "Approved",
+    "REJECTED": "Rejected",
+    "CANCELED": "Canceled"
+  },
+  "interviewInfo": {
+    "overview": "Overview",
+    "createInterview": "Create Interview",
+    "interview": "Interview",
+    "result": "Result"
+  },
+  "applicationInfo": {
+    "gender": "Gender",
+    "accountStatus": "Account Status",
+    "point": "Points",
+    "department": "Department",
+    "interview": "Interview Status",
+    "result": "Result",
+    "role": "Role",
+    "createdAt": "Created at",
+    "updatedAt": "Updated at"
+  },
+  "resultInfo": {
+    "title": "Application Result",
+    "name": "Name",
+    "department": "Department",
+    "interview": "Interview Status",
+    "result": "Result",
+    "role": "Role",
+    "createdAt": "Created at",
+    "updatedAt": "Updated at",
+    "edit": "Edit",
+    "submit": "Submit"
+  },
+  "createInterview": {
+    "title": "Create an Interview",
+    "startTime": "Start time",
+    "endTime": "End time",
+    "location": "Location",
+    "note": "Note",
+    "createdAt": "Created at",
+    "updatedAt": "Updated at",
+    "edit": "Edit",
+    "submit": "Submit"
+  },
+  "interview": {
+    "title": "Interview",
+    "attitude": "Attitude",
+    "engagementLevel": "Engagement Level",
+    "specialize": "Specialize",
+    "comment": "Comment",
+    "interviewStatus": "Interview Status",
+    "createdAt": "Created at",
+    "updatedAt": "Updated at",
+    "edit": "Edit",
+    "submit": "Submit"
+  },
+  "submit": "Submit"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Semester Manager",
+  "search": "Search",
+  "addSemester": "Add Semester",
+  "name": "Name",
+  "year": " Year",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "action": "Action",
+  "update": "Update",
+  "delete": "Delete"
+}

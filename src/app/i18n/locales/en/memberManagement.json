@@ -1,0 +1,32 @@
+{
+  "order": "No.",
+  "name": "Name",
+  "username": "Username",
+  "department": "Deparment",
+  "status": "Status",
+  "statusInteview": "Status Inteview",
+  "interviewStatus": "Interview Status",
+  "updatedAt": "Updated At",
+  "action": "Actions",
+  "search": "Search",
+  "title": "Member Management",
+  "memberListTitle": "Member List",
+  "role": "Role",
+  "editModel": "Edit Member",
+  "submit": "Submit",
+  "memberInfo": "Member Information",
+  "statusFilter": {
+    "NEW": "New",
+    "MEMBER": "Member",
+    "REJECTED": "Rejected",
+    "DROP_OUT": "Drop Out"
+  },
+  "interviewStatusFilter": {
+    "NEW": "New",
+    "SENT_INTERVIEW": "Send Interview",
+    "INTERVIEWED": "Interviewed",
+    "APPROVED": "Approved",
+    "REJECTED": "Rejected",
+    "CANCELED": "Canceled"
+  }
+}

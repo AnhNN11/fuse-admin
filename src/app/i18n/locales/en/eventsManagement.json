@@ -1,0 +1,98 @@
+{
+  "title": "Event Management",
+
+  "search": "Search",
+  "create": "Create New Event",
+
+  "fieldRequeired": "This field is required",
+
+  "filters": {
+    "club": "Club",
+    "status": "Status",
+    "location": "Location",
+    "date": "Created at",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "internal": "Internal",
+    "public": "Public",
+    "type": "Type"
+  },
+
+  "columns": {
+    "order": "No.",
+    "club": "Club",
+    "name": "Event Name",
+    "date": "Created at",
+    "location": "Location",
+    "status": "Status",
+    "type": "Type",
+    "actions": "Actions"
+  },
+
+  "eventDetail": {
+    "title": "Event Detail Information",
+    "name": "Event Name",
+    "time": "Event time",
+    "location": "Location",
+    "description": "Description",
+    "status": "Status",
+    "type": "Type",
+    "upload": "Click to Upload",
+    "image": "Image Banner",
+    "internal": "Internal",
+    "public": "Public",
+    "placeholderLocation": "Select location",
+    "placeholderType": "Select type",
+
+    "tabs": {
+      "overview": "Overview",
+      "registrations": "Registrations",
+      "feedbacks": "Feedbacks"
+    },
+
+    "actions": {
+      "create": "Create",
+      "update": "Update",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "approve": "Approve",
+      "reject": "Reject"
+    }
+  },
+
+  "eventList": {
+    "clubEvent": "Club Event",
+    "register": "Register",
+    "registered": "Registered",
+    "cancel": "Cancel",
+    "view": "View Detail"
+  },
+
+  "registration": {
+    "title": "Register to participate in the event",
+    "subTitle": "Please confirm your registration information",
+    "eventInfo": "Information & Events",
+    "eventName": "Event Name",
+    "eventTime": "Time",
+    "eventLocation": "Location",
+    "userInfo": "Registration information",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "studentCode": "Student Code"
+  },
+
+  "registrationTable": {
+    "title": "Danh sách đăng ký",
+    "order": "STT",
+    "fullName": "Họ và tên",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "studentCode": "MSSV",
+    "status": "Status",
+    "actions": "Thao tác",
+    "created": "Ngày đăng ký",
+    "isJoined": "Đã điểm danh"
+  }
+}

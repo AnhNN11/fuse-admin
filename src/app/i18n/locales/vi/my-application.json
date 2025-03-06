@@ -1,0 +1,28 @@
+{
+  "order": "STT",
+  "name": "Họ và tên",
+  "username": "MSSV",
+  "club": "Câu lạc bộ",
+  "department": "Ban",
+  "status": "Tình trạng",
+  "statusInteview": "Phỏng vấn",
+  "interviewStatus": "Tình trạng phỏng vấn",
+  "updatedAt": "Cập nhật",
+  "action": "Tác vụ",
+  "search": "Tìm kiếm",
+  "title": "Đơn của tôi",
+  "statusFilter": {
+    "NEW": "Mới",
+    "MEMBER": "Thành viên",
+    "REJECTED": "Từ chối",
+    "DROP_OUT": "Dừng Hoạt động"
+  },
+  "interviewStatusFilter": {
+    "NEW": "Mới",
+    "SENT_INTERVIEW": "Đã gửi email",
+    "INTERVIEWED": "Đã phỏng vấn",
+    "APPROVED": "Đã phê duyệt",
+    "REJECTED": "Đã từ chối",
+    "CANCELED": "Đã huỷ"
+  }
+}

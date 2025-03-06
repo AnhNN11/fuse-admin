@@ -1,0 +1,43 @@
+{
+	"title": "Users Management",
+	"table": {
+		"number": "No.",
+		"name": "Fullname",
+		"gender": "Gender",
+		"phoneNumber": "Phone number",
+		"active": "Active",
+		"admin": "Admin"
+	},
+	"data": {
+		"male": "Male",
+		"female": "Female",
+		"email": "Email",
+		"phoneNumber": "Phone number",
+		"gender": "Gender",
+		"dob": "Date of Birth",
+		"homeTown": "Hometown",
+		"major": "Major",
+		"academicYear": "Academic year",
+		"facebookUrl": "Facebook",
+		"linkedInUrl": "LinkedIn",
+		"createdAt": "Created at",
+		"updatedAt": "Updated at"
+	},
+	"gender": {
+		"male": "Male",
+		"female": "Female"
+	},
+	"modal": {
+		"activeChange": {
+			"title": "Confirm active change",
+			"content": "Are you sure you want to change active status?"
+		},
+		"adminChange": {
+			"title": "Confirm admin change",
+			"content": "Are you sure you want to change admin status?"
+		},
+		"changeAvt": {
+			"title": "Upload avatar"
+		}
+	}
+}

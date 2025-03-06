@@ -1,0 +1,32 @@
+{
+  "order": "STT",
+  "name": "Họ và tên",
+  "username": "MSSV",
+  "department": "Ban",
+  "status": "Tình trạng",
+  "statusInteview": "Phỏng vấn",
+  "interviewStatus": "Tình trạng phỏng vấn",
+  "updatedAt": "Cập nhật",
+  "action": "Tác vụ",
+  "search": "Tìm kiếm",
+  "title": "Quản lý thành viên",
+  "memberListTitle": "Danh sách thành viên",
+  "role": "Phân quyền",
+  "editModel": "Cập nhật thành viên",
+  "submit": "Lưu",
+  "memberInfo": "Thông tin thành viên",
+  "statusFilter": {
+    "NEW": "Mới",
+    "MEMBER": "Thành viên",
+    "REJECTED": "Từ chối",
+    "DROP_OUT": "Dừng Hoạt động"
+  },
+  "interviewStatusFilter": {
+    "NEW": "Mới",
+    "SENT_INTERVIEW": "Đã gửi email",
+    "INTERVIEWED": "Đã phỏng vấn",
+    "APPROVED": "Đã phê duyệt",
+    "REJECTED": "Đã từ chối",
+    "CANCELED": "Đã huỷ"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Finances Management",
+	"titleFee": "Fee Management",
+  "confund": "Contribute to funds",
+  "search": "Search",
+  "admin": "Admin",
+  "balance": "Balance",
+  "addExpenses": "Add expense",
+  "conFunds": "Contribute to Funds",
+  "none": "(None)",
+  "revenue": "Revenue",
+  "expense": "Expense",
+  "r": "Rev",
+  "e": "Xps",
+  "addFunds": "Add funds",
+  "addRevenue": "Add revenue",
+  "paid": "Paid",
+  "not_paid": "Not paid",
+  "table": {
+    "number": "No.",
+    "title": "Title",
+    "content": "Content",
+    "creator": "Creator",
+    "amount": "Amount",
+    "action": "Action",
+    "amount_": "Amount",
+    "receiver": "Receiver",
+    "status": "Status",
+    "money": "Money",
+    "paid": "Paid"
+  },
+  "modal": {
+    "expenses": "ADD EXPENSE",
+		"funds": "ADD FUNDS",
+		"revenue": "ADD REVENUE",
+    "confirmAdd": {
+      "title": "Confirm adding",
+      "content": "While you finish adding, you won't be able to update or delete. Do you want to continue?"
+    }
+  },
+  "form": {
+    "title": "Title",
+    "content": "Content",
+    "amount": "Amount",
+    "submit": "Submit"
+  }
+}

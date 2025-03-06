@@ -1,0 +1,80 @@
+{
+  "order": "STT",
+  "name": "Họ và tên",
+  "username": "MSSV",
+  "department": "Ban",
+  "status": "Tình trạng",
+  "statusInteview": "Phỏng vấn",
+  "interviewStatus": "Tình trạng phỏng vấn",
+  "updatedAt": "Cập nhật",
+  "action": "Tác vụ",
+  "search": "Tìm kiếm",
+  "title": "Quản lý tuyển dụng",
+  "statusFilter": {
+    "NEW": "Mới",
+    "MEMBER": "Thành viên",
+    "REJECTED": "Từ chối",
+    "DROP_OUT": "Dừng Hoạt động"
+  },
+  "interviewStatusFilter": {
+    "NEW": "Mới",
+    "SENT_INTERVIEW": "Đã gửi email",
+    "INTERVIEWED": "Đã phỏng vấn",
+    "APPROVED": "Đã phê duyệt",
+    "REJECTED": "Đã từ chối",
+    "CANCELED": "Đã huỷ"
+  },
+  "interviewInfo": {
+    "overview": "Thông tin chung",
+    "createInterview": "Tạo phỏng vấn",
+    "interview": "Phỏng vấn",
+    "result": "Kết quả"
+  },
+  "applicationInfo": {
+    "gender": "Giới tính",
+    "accountStatus": "Trạng thái tài khoản",
+    "point": "Điểm hoạt động",
+    "department": "Ban",
+    "interview": "Tình trạng phỏng vấn",
+    "result": "Kết quả",
+    "role": "Phân quyền",
+    "createdAt": "Tạo vào",
+    "updatedAt": "Cập nhật vào"
+  },
+  "resultInfo": {
+    "title": "Kết quả đánh giá",
+    "name": "Họ và tên",
+    "department": "Ban",
+    "interview": "Tình trạng phỏng vấn",
+    "result": "Kết quả",
+    "role": "Phân quyền",
+    "createdAt": "Tạo vào",
+    "updatedAt": "Cập nhật vào",
+    "edit": "Cập nhật",
+    "submit": "Lưu"
+  },
+  "createInterview": {
+    "title": "Tạo phỏng vấn",
+    "startTime": "Thời gian bắt đầu",
+    "endTime": "Thời gian kết thúc",
+    "location": "Địa điểm",
+    "note": "Ghi chú",
+    "createdAt": "Tạo vào",
+    "updatedAt": "Cập nhật vào",
+    "edit": "Cập nhật",
+    "submit": "Lưu"
+  },
+  "interview": {
+    "title": "Phỏng vấn",
+    "attitude": "Thái độ",
+    "engagementLevel": "Mức độ gắn bó",
+    "specialize": "Chuyên môn",
+    "comment": "Nhận xét",
+    "interviewStatus": "Kết quả phỏng vấn",
+    "createdAt": "Tạo vào",
+    "updatedAt": "Cập nhật vào",
+    "edit": "Cập nhật",
+    "submit": "Lưu"
+  },
+  "submit": "Lưu"
+}

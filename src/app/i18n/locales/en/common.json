@@ -1,0 +1,11 @@
+{
+  "eventStatus": {
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "eventTypes": {
+    "internal": "Internal",
+    "public": "Public"
+  }
+}

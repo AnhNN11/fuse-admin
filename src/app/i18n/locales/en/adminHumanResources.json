@@ -1,0 +1,20 @@
+{
+  "club": "Club",
+  "title": "Member of Club",
+  "order": "No.",
+  "name": "Name",
+  "username": "Username",
+  "department": "Deparment",
+  "status": "Status",
+  "statusInteview": "Status Inteview",
+  "interviewStatus": "Interview Status",
+  "updatedAt": "Updated At",
+  "action": "Actions",
+  "search": "Search",
+  "statusFilter": {
+    "NEW": "New",
+    "MEMBER": "Member",
+    "REJECTED": "Rejected",
+    "DROP_OUT": "Drop Out"
+  }
+}

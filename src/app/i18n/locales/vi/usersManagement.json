@@ -1,0 +1,43 @@
+{
+	"title": "Quản lý người dùng",
+	"table": {
+		"number": "STT",
+		"name": "Tên",
+		"gender": "Giới tính",
+		"phoneNumber": "Số điện thoại",
+		"active": "Hoạt động",
+		"admin": "Quản trị viện"
+	},
+	"data": {
+		"male": "Nam",
+		"female": "Nữ",
+		"email": "Thư điện tử",
+		"phoneNumber": "Số điện thoại",
+		"gender": "Giới tính",
+		"dob": "Ngày sinh",
+		"homeTown": "Quê quán",
+		"major": "Ngành",
+		"academicYear": "Khóa",
+		"facebookUrl": "Facebook",
+		"linkedInUrl": "LinkedIn",
+		"createdAt": "Tạo lúc",
+		"updatedAt": "Sửa lúc"
+	},
+	"gender": {
+		"male": "Nam",
+		"female": "Nữ"
+	},
+	"modal": {
+		"activeChange": {
+			"title": "Xác nhận thay đổi trạng thái hoạt động",
+			"content": "Bạn có chắc chắn muốn thay đổi trạng thái hoạt động không?"
+		},
+		"adminChange": {
+			"title": "Xác nhận thay đổi quyền quản trị",
+			"content": "Bạn có chắc chắn muốn thay đổi quyền quản trị không?"
+		},
+		"changeAvt": {
+			"title": "Tải ảnh đại diện"
+		}
+	}
+}

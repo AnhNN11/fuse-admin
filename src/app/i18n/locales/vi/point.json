@@ -1,0 +1,60 @@
+{
+  "title": "Quản lý kế hoạch",
+
+  "search": "Tìm kiếm",
+  "create": "Tạo kế hoạch mới",
+
+  "fieldRequeired": "Trường này là bắt buộc",
+
+  "filters": {
+    "club": "Câu lạc bộ",
+    "semester": "Học kỳ",
+    "status": "Trạng thái",
+    "location": "Địa điểm",
+    "date": "Ngày gửi",
+    "pending": "Đang chờ duyệt",
+    "approved": "Đã phê duyệt",
+    "rejected": "Đã từ chối"
+  },
+
+  "columns": {
+    "order": "STT",
+    "club": "Câu lạc bộ",
+    "name": "Tên sự kiện",
+    "date": "Ngày gửi",
+    "location": "Địa điểm",
+    "status": "Trạng thái",
+    "actions": "Thao tác"
+  },
+
+  "eventDetail": {
+    "title": "Thông tin chi tiết sự kiện",
+    "name": "Tên sự kiện",
+    "time": "Thời gian sự kiện",
+    "location": "Địa điểm",
+    "description": "Mô tả",
+    "status": "Trạng thái",
+    "type": "Loại",
+    "upload": "Nhấp để tải lên",
+    "image": "Ảnh banner",
+    "internal": "Nội bộ",
+    "public": "Công khai",
+    "placeholderLocation": "Chọn địa điểm",
+    "placeholderType": "Chọn loại",
+
+    "tabs": {
+      "overview": "Tổng quan",
+      "registrations": "Đăng ký",
+      "feedbacks": "Phản hồi"
+    },
+
+    "actions": {
+      "create": "Tạo mới",
+      "update": "Cập nhật",
+      "delete": "Xóa",
+      "cancel": "Hủy",
+      "approve": "Phê duyệt",
+      "reject": "Từ chối"
+    }
+  }
+}

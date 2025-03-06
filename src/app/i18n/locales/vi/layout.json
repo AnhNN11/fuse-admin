@@ -1,0 +1,21 @@
+{
+  "dashboard": "Bảng điều khiển",
+  "eventManagement": "Quản lý sự kiện",
+  "humanResource": "Quản lý nhân sự",
+  "memberManagement": "Quản lý thành viên",
+  "finances": "Quản lý tài chính",
+  "fin": {
+    "overview": "Tổng quan",
+    "re": "Thu/Chi",
+    "fund": "Quản lý quỹ",
+    "confund": "Đóng phí"
+  },
+  "event": "Sự kiện",
+  "usersManagement": "Quản lý người dùng",
+  "memberList": "Thành viên",
+  "english": "Tiếng Anh",
+  "vietnamese": "Tiếng Việt",
+  "notifications":"Quản lý thông báo",
+  "clubManagement":"Quản lý câu lạc bộ",
+  "notification":"Tất cả thông báo"
+}

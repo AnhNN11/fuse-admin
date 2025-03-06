@@ -1,0 +1,89 @@
+{
+  "title": "Quản lý sự kiện",
+
+  "search": "Tìm kiếm",
+  "create": "Tạo sự kiện mới",
+
+  "fieldRequeired": "Trường này là bắt buộc",
+
+  "filters": {
+    "club": "Câu lạc bộ",
+    "status": "Trạng thái",
+    "location": "Địa điểm",
+    "date": "Ngày tạo",
+    "pending": "Đang chờ duyệt",
+    "approved": "Đã phê duyệt",
+    "rejected": "Đã từ chối",
+    "internal": "Nội bộ",
+    "public": "Công khai",
+    "type": "Thể Loại"
+  },
+
+  "columns": {
+    "order": "STT",
+    "club": "Câu lạc bộ",
+    "name": "Tên sự kiện",
+    "date": "Ngày tạo",
+    "location": "Địa điểm",
+    "status": "Trạng thái",
+    "type": "Thể Loại",
+    "actions": "Thao tác"
+  },
+
+  "eventDetail": {
+    "title": "Thông tin chi tiết sự kiện",
+    "name": "Tên sự kiện",
+    "time": "Thời gian sự kiện",
+    "location": "Địa điểm",
+    "description": "Mô tả",
+    "status": "Trạng thái",
+    "type": "Loại",
+    "upload": "Nhấp để tải lên",
+    "image": "Ảnh banner",
+    "internal": "Nội bộ",
+    "public": "Công khai",
+    "placeholderLocation": "Chọn địa điểm",
+    "placeholderType": "Chọn loại",
+
+    "tabs": {
+      "overview": "Tổng quan",
+      "registrations": "Danh sách đăng ký",
+      "feedbacks": "Phản hồi"
+    },
+
+    "actions": {
+      "create": "Tạo mới",
+      "update": "Cập nhật",
+      "delete": "Xóa",
+      "cancel": "Hủy",
+      "approve": "Phê duyệt",
+      "reject": "Từ chối"
+    }
+  },
+
+  "eventList": {
+    "clubEvent": "Sự kiện của câu lạc bộ",
+    "register": "Đăng ký",
+    "registered": "Đã đăng ký",
+    "cancel": "Hủy",
+    "view": "Xem chi tiết"
+  },
+
+  "registration": {
+    "title": "Thông tin đăng ký tham gia sự kiện",
+    "subTitle": "Vui lòng xác nhận thông tin đăng ký của bạn",
+    "eventInfo": "Thông tin sự kiện",
+    "eventName": "Tên sự kiện",
+    "eventTime": "Thời gian",
+    "eventLocation": "Địa điểm",
+    "userInfo": "Thông tin của bạn",
+    "fullName": "Họ và tên",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "studentCode": "MSSV"
+  },
+
+  "registrationTable": {
+    "title": "Danh sách đăng ký"
+  }
+}
